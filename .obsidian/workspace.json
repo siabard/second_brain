@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_project/Diary_with_AI/04. Middleware.md",
+                "file": "02_area/ollama/Ollama 한글 모델 사용하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_project/Diary_with_AI/04. Middleware.md",
+                "file": "02_area/ollama/Ollama 한글 모델 사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_project/Diary_with_AI/04. Middleware.md",
+                "file": "02_area/ollama/Ollama 한글 모델 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_project/Diary_with_AI/04. Middleware.md"
+                "file": "02_area/ollama/Ollama 한글 모델 사용하기.md"
               }
             }
           }
@@ -148,20 +148,23 @@
   },
   "active": "56d30a3b9eb37f34",
   "lastOpenFiles": [
-    "01_project/Diary_with_AI/03. Router.md",
+    "02_area/langchain/model_io/Model IO.md",
     "01_project/Diary_with_AI/04. Middleware.md",
+    "02_area/langchain/model_io",
+    "02_area/langchain",
     "01_project/Diary_with_AI/02. Express + TypeScript.md",
-    "03_resource/zerotier/ZeroTier 사용하기.md",
+    "01_project/Diary_with_AI/03. Router.md",
     "02_area/ollama/Ollama 한글 모델 사용하기.md",
+    "03_resource/zerotier/ZeroTier 사용하기.md",
+    "assets/zerotier_join_newnetwork.png",
+    "assets/zerotier_dashboard_member.png",
+    "assets/zerotier_dashboard.png",
     "2024-04-13.md",
     "Untitled.canvas",
     "02_area/ollama",
     "01_project/Diary_with_AI/01. ReactNative.md",
     "01_project/Diary_with_AI/00. 개요.md",
     "01_project/Diary_with_AI",
-    "assets/zerotier_dashboard_member.png",
-    "assets/zerotier_join_newnetwork.png",
-    "assets/zerotier_dashboard.png",
     "assets/스크린샷 2024-04-13 오후 3.32.20.png",
     "assets",
     "03_resource/zerotier",
