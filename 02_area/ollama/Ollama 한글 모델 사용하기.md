@@ -13,7 +13,7 @@ pip install huggingface-hub
 다음에 필요한 모델의 GGUF 파일을 다운 받는다.
 
 ```bash
-huggingface-hub download \
+huggingface-cli download \
   heegyu/EEVE-Korean-Instruct-10.8B-v1.0-GGUF \
   ggml-model-Q5_K_M.gguf \
   --local-dir ~/ollama/gguf \
@@ -36,7 +36,7 @@ TEMPLATE """{{- if .System }}
 
 SYSTEM """A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. """
 
-TEMPERATURE 0
+PARAMETER temperature 0
 PARAMETER stop <s>
 PARAMETER stop </s>
 ```
