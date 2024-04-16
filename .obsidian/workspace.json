@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_area/langchain/Retrieval/Text Splitter.md",
+                "file": "02_area/langchain/Retrieval/Vector Store.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_area/langchain/Retrieval/Text Splitter.md",
+                "file": "02_area/langchain/Retrieval/Vector Store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_area/langchain/Retrieval/Text Splitter.md",
+                "file": "02_area/langchain/Retrieval/Vector Store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_area/langchain/Retrieval/Text Splitter.md"
+                "file": "02_area/langchain/Retrieval/Vector Store.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "56d30a3b9eb37f34",
   "lastOpenFiles": [
+    "02_area/langchain/Retrieval/Embeddings.md",
+    "02_area/langchain/Retrieval/Vector Store.md",
+    "02_area/langchain/Retrieval/Text Splitter.md",
+    "02_area/ollama/Ollama 한글 모델 사용하기.md",
     "02_area/langchain/LangChain 설치하기.md",
     "assets/langchain_embedding.png",
-    "02_area/langchain/Retrieval/Text Splitter.md",
     "02_area/langchain/model_io/Model IO.md",
     "03_resource/zerotier/ZeroTier 사용하기.md",
     "assets/langchain_textsplitter.png",
-    "02_area/ollama/Ollama 한글 모델 사용하기.md",
     "02_area/langchain/Retrieval",
     "01_project/Diary_with_AI/04. Middleware.md",
     "02_area/langchain/model_io",
