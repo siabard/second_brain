@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_area/ollama/Ollama 한글 모델 사용하기.md",
+                "file": "02_area/langchain/Retrieval/Text Splitter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_area/ollama/Ollama 한글 모델 사용하기.md",
+                "file": "02_area/langchain/Retrieval/Text Splitter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_area/ollama/Ollama 한글 모델 사용하기.md",
+                "file": "02_area/langchain/Retrieval/Text Splitter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_area/ollama/Ollama 한글 모델 사용하기.md"
+                "file": "02_area/langchain/Retrieval/Text Splitter.md"
               }
             }
           }
@@ -148,14 +148,19 @@
   },
   "active": "56d30a3b9eb37f34",
   "lastOpenFiles": [
+    "02_area/langchain/LangChain 설치하기.md",
+    "assets/langchain_embedding.png",
+    "02_area/langchain/Retrieval/Text Splitter.md",
     "02_area/langchain/model_io/Model IO.md",
+    "03_resource/zerotier/ZeroTier 사용하기.md",
+    "assets/langchain_textsplitter.png",
+    "02_area/ollama/Ollama 한글 모델 사용하기.md",
+    "02_area/langchain/Retrieval",
     "01_project/Diary_with_AI/04. Middleware.md",
     "02_area/langchain/model_io",
     "02_area/langchain",
     "01_project/Diary_with_AI/02. Express + TypeScript.md",
     "01_project/Diary_with_AI/03. Router.md",
-    "02_area/ollama/Ollama 한글 모델 사용하기.md",
-    "03_resource/zerotier/ZeroTier 사용하기.md",
     "assets/zerotier_join_newnetwork.png",
     "assets/zerotier_dashboard_member.png",
     "assets/zerotier_dashboard.png",
@@ -170,7 +175,6 @@
     "03_resource/zerotier",
     "04_archive",
     "03_resource",
-    "02_area",
-    "01_project"
+    "02_area"
   ]
 }
