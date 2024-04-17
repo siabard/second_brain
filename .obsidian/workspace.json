@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_area/langchain/Retrieval/Vector Store.md",
+                "file": "02_area/LLM/양자화하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_area/langchain/Retrieval/Vector Store.md",
+                "file": "02_area/LLM/양자화하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_area/langchain/Retrieval/Vector Store.md",
+                "file": "02_area/LLM/양자화하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_area/langchain/Retrieval/Vector Store.md"
+                "file": "02_area/LLM/양자화하기.md"
               }
             }
           }
@@ -148,9 +148,20 @@
   },
   "active": "56d30a3b9eb37f34",
   "lastOpenFiles": [
-    "02_area/langchain/Retrieval/Embeddings.md",
-    "02_area/langchain/Retrieval/Vector Store.md",
-    "02_area/langchain/Retrieval/Text Splitter.md",
+    "02_area/langchain/Retrieval/06. Retrieval.md",
+    "02_area/LLM/양자화하기.md",
+    "02_area/LLM",
+    "02_area/langchain/Retrieval/05. Vector Store.md",
+    "assets/rag_chain_map_rerank.png",
+    "assets/rag_chain_refine.png",
+    "assets/rag_chain_map_reduce.png",
+    "assets/rag_chain_stuff.png",
+    "02_area/langchain/Retrieval/04. Embeddings.md",
+    "02_area/langchain/Retrieval/03. Text Splitter.md",
+    "02_area/langchain/Retrieval/02. Document Loader.md",
+    "02_area/langchain/Retrieval/01. RAG란 무엇인가?.md",
+    "assets/structure_rag.png",
+    "assets/about_rag.png",
     "02_area/ollama/Ollama 한글 모델 사용하기.md",
     "02_area/langchain/LangChain 설치하기.md",
     "assets/langchain_embedding.png",
@@ -165,18 +176,15 @@
     "01_project/Diary_with_AI/03. Router.md",
     "assets/zerotier_join_newnetwork.png",
     "assets/zerotier_dashboard_member.png",
-    "assets/zerotier_dashboard.png",
     "2024-04-13.md",
     "Untitled.canvas",
     "02_area/ollama",
     "01_project/Diary_with_AI/01. ReactNative.md",
     "01_project/Diary_with_AI/00. 개요.md",
     "01_project/Diary_with_AI",
-    "assets/스크린샷 2024-04-13 오후 3.32.20.png",
     "assets",
     "03_resource/zerotier",
     "04_archive",
-    "03_resource",
-    "02_area"
+    "03_resource"
   ]
 }
