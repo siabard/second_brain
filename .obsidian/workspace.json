@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d4c6548301a4526",
+        "id": "9d78f312caa05a68",
         "type": "tabs",
         "children": [
           {
-            "id": "56d30a3b9eb37f34",
+            "id": "c64b72e8946e7680",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_area/LLM/양자화하기.md",
+                "file": "02_area/langchain/Retrieval/06. Retrieval.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_area/LLM/양자화하기.md",
+                "file": "02_area/langchain/Retrieval/06. Retrieval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_area/LLM/양자화하기.md",
+                "file": "02_area/langchain/Retrieval/06. Retrieval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_area/LLM/양자화하기.md"
+                "file": "02_area/langchain/Retrieval/06. Retrieval.md"
               }
             }
           }
@@ -146,27 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56d30a3b9eb37f34",
+  "active": "c64b72e8946e7680",
   "lastOpenFiles": [
-    "02_area/langchain/Retrieval/06. Retrieval.md",
+    "02_area/langchain/model_io/Model IO.md",
+    "02_area/langchain/Retrieval/04. Embeddings.md",
+    "02_area/langchain/Retrieval/03. Text Splitter.md",
+    "02_area/langchain/Retrieval/02. Document Loader.md",
     "02_area/LLM/양자화하기.md",
-    "02_area/LLM",
+    "02_area/ollama/Ollama 한글 모델 사용하기.md",
     "02_area/langchain/Retrieval/05. Vector Store.md",
+    "02_area/langchain/Retrieval/06. Retrieval.md",
+    "03_resource/zerotier/ZeroTier 사용하기.md",
+    "02_area/langchain/LangChain 설치하기.md",
+    "02_area/LLM",
     "assets/rag_chain_map_rerank.png",
     "assets/rag_chain_refine.png",
     "assets/rag_chain_map_reduce.png",
     "assets/rag_chain_stuff.png",
-    "02_area/langchain/Retrieval/04. Embeddings.md",
-    "02_area/langchain/Retrieval/03. Text Splitter.md",
-    "02_area/langchain/Retrieval/02. Document Loader.md",
     "02_area/langchain/Retrieval/01. RAG란 무엇인가?.md",
     "assets/structure_rag.png",
     "assets/about_rag.png",
-    "02_area/ollama/Ollama 한글 모델 사용하기.md",
-    "02_area/langchain/LangChain 설치하기.md",
     "assets/langchain_embedding.png",
-    "02_area/langchain/model_io/Model IO.md",
-    "03_resource/zerotier/ZeroTier 사용하기.md",
     "assets/langchain_textsplitter.png",
     "02_area/langchain/Retrieval",
     "01_project/Diary_with_AI/04. Middleware.md",
