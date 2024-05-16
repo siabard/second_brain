@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_area/langchain/Retrieval/06. Retrieval.md",
+                "file": "03_resource/zerotier/ZeroTier 사용하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_area/langchain/Retrieval/06. Retrieval.md",
+                "file": "03_resource/zerotier/ZeroTier 사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_area/langchain/Retrieval/06. Retrieval.md",
+                "file": "03_resource/zerotier/ZeroTier 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_area/langchain/Retrieval/06. Retrieval.md"
+                "file": "03_resource/zerotier/ZeroTier 사용하기.md"
               }
             }
           }
@@ -148,15 +148,19 @@
   },
   "active": "c64b72e8946e7680",
   "lastOpenFiles": [
+    "01_project/php/PHP MacOSX 에 설치하기.md",
+    "03_resource/zerotier/ZeroTier 사용하기.md",
+    "03_resource/vscode/VSCode 에 Ollama code hinter 연동하기.md",
+    "01_project/php",
+    "03_resource/vscode",
+    "02_area/ollama/Ollama 한글 모델 사용하기.md",
+    "02_area/langchain/Retrieval/06. Retrieval.md",
     "02_area/langchain/model_io/Model IO.md",
     "02_area/langchain/Retrieval/04. Embeddings.md",
     "02_area/langchain/Retrieval/03. Text Splitter.md",
     "02_area/langchain/Retrieval/02. Document Loader.md",
     "02_area/LLM/양자화하기.md",
-    "02_area/ollama/Ollama 한글 모델 사용하기.md",
     "02_area/langchain/Retrieval/05. Vector Store.md",
-    "02_area/langchain/Retrieval/06. Retrieval.md",
-    "03_resource/zerotier/ZeroTier 사용하기.md",
     "02_area/langchain/LangChain 설치하기.md",
     "02_area/LLM",
     "assets/rag_chain_map_rerank.png",
@@ -183,8 +187,6 @@
     "01_project/Diary_with_AI/00. 개요.md",
     "01_project/Diary_with_AI",
     "assets",
-    "03_resource/zerotier",
-    "04_archive",
-    "03_resource"
+    "03_resource/zerotier"
   ]
 }
