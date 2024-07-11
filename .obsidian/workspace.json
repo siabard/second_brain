@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7314d4f0542eb19e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_area/SDL/Texture로 출력하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_resource/zerotier/ZeroTier 사용하기.md",
+                "file": "02_area/SDL/Texture로 출력하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_resource/zerotier/ZeroTier 사용하기.md",
+                "file": "02_area/SDL/Texture로 출력하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_resource/zerotier/ZeroTier 사용하기.md"
+                "file": "02_area/SDL/Texture로 출력하기.md"
               }
             }
           }
@@ -146,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c64b72e8946e7680",
+  "active": "d62d752b4ea1f74e",
   "lastOpenFiles": [
-    "01_project/php/PHP MacOSX 에 설치하기.md",
     "03_resource/zerotier/ZeroTier 사용하기.md",
+    "02_area/SDL/Texture로 출력하기.md",
+    "02_area/SDL",
+    "01_project/php/PHP MacOSX 에 설치하기.md",
     "03_resource/vscode/VSCode 에 Ollama code hinter 연동하기.md",
     "01_project/php",
     "03_resource/vscode",
@@ -186,7 +201,6 @@
     "01_project/Diary_with_AI/01. ReactNative.md",
     "01_project/Diary_with_AI/00. 개요.md",
     "01_project/Diary_with_AI",
-    "assets",
-    "03_resource/zerotier"
+    "assets"
   ]
 }
