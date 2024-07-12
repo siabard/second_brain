@@ -1,0 +1,12 @@
+- entered the site URL in browser address bar itself.
+- visited the site by a browser-maintained bookmark.
+- visited the site as first page in a new window/tab/session, in some browsers.
+- clicked a link on a page having restrictive [`<meta name="referrer">`](http://wiki.whatwg.org/wiki/Meta_referrer) tag.
+- clicked a link on a page having restrictive [`Referrer-Policy`](https://www.w3.org/TR/referrer-policy/) header.
+- clicked a link having [`rel="noreferrer"`](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel/noreferrer).
+- clicked a link in an external application (i.e. not a webbrowser, e.g. Flash).
+- switched from a https URL to a http URL.
+- has security software installed (antivirus/firewall/etc) which strips the referrer from all requests.
+- is behind a proxy which strips the referrer from all requests.
+- visited the site programmatically (like, curl) without setting the referrer header (bots!).
+- HTTPS 인 경우도 안옴
