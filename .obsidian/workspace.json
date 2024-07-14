@@ -11,8 +11,36 @@
             "id": "d5f133b1a8c105de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_area/SDL/Texture로 출력하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b66bb36add6a56a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "한글 출력.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68f65df565a55f30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_resource/한글/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -39,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_resource/도서관련/Software Design for Flexibility.md",
+                "file": "한글 출력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_resource/도서관련/Software Design for Flexibility.md",
+                "file": "한글 출력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_resource/도서관련/Software Design for Flexibility.md"
+                "file": "한글 출력.md"
               }
             }
           }
@@ -154,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,8 +196,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d62d752b4ea1f74e",
+  "active": "b66bb36add6a56a9",
   "lastOpenFiles": [
+    "03_resource/한글/Untitled.md",
+    "그냥 어딘가의 머릿말.md",
+    "03_resource/한글",
+    "한글 출력.md",
+    "02_area/SDL/Texture로 출력하기.md",
+    "00",
+    "02_area/ollama/Ollama 한글 모델 사용하기.md",
+    "02_area/react/react_form/React-Form + ZOD.md",
+    "02_area/react/zustand/Zustand로 Global State 관리하기.md",
     "03_resource/vscode/VSCode 에 Ollama code hinter 연동하기.md",
     "03_resource/vscode",
     "02_area/SDL/Texture로 출력하기.md",
@@ -176,8 +215,6 @@
     "02_area/SDL",
     "01_project/php/PHP MacOSX 에 설치하기.md",
     "01_project/php",
-    "02_area/react/zustand/Zustand로 Global State 관리하기.md",
-    "02_area/react/react_form/React-Form + ZOD.md",
     "02_area/react/react_form",
     "02_area/langchain/Retrieval/06. Retrieval.md",
     "02_area/react/zustand",
@@ -187,7 +224,6 @@
     "02_area/langchain/Retrieval/03. Text Splitter.md",
     "02_area/langchain/Retrieval/02. Document Loader.md",
     "02_area/LLM/양자화하기.md",
-    "02_area/ollama/Ollama 한글 모델 사용하기.md",
     "02_area/langchain/Retrieval/05. Vector Store.md",
     "03_resource/zerotier/ZeroTier 사용하기.md",
     "02_area/langchain/LangChain 설치하기.md",
@@ -203,8 +239,6 @@
     "assets/langchain_textsplitter.png",
     "02_area/langchain/Retrieval",
     "01_project/Diary_with_AI/04. Middleware.md",
-    "02_area/langchain/model_io",
-    "02_area/langchain",
     "01_project/Diary_with_AI/02. Express + TypeScript.md",
     "01_project/Diary_with_AI/03. Router.md",
     "assets/zerotier_join_newnetwork.png",
