@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2fe15aa54648edd5",
+        "id": "d5d5302edcd6676d",
         "type": "tabs",
         "children": [
           {
-            "id": "d5f133b1a8c105de",
+            "id": "eb2b169a1f9eff5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_area/SDL/Texture로 출력하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b66bb36add6a56a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "한글 출력.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68f65df565a55f30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_resource/한글/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80b63f35b42947cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_resource/web/PHP에서 REFERER가 안오는 케이스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "043ebaeb17b8868d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_resource/도서관련/Software Design for Flexibility.md",
+                "file": "03_resource/도서관련/전략삼국지.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "한글 출력.md",
+                "file": "03_resource/도서관련/전략삼국지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "한글 출력.md",
+                "file": "03_resource/도서관련/전략삼국지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "한글 출력.md"
+                "file": "03_resource/도서관련/전략삼국지.md"
               }
             }
           }
@@ -196,20 +147,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b66bb36add6a56a9",
+  "active": "eb2b169a1f9eff5a",
   "lastOpenFiles": [
+    "03_resource/개발툴/D인가 Common Lisp 인가.md",
+    "03_resource/개발툴",
+    "03_resource/도서관련/Software Design for Flexibility.md",
+    "03_resource/web/PHP에서 REFERER가 안오는 케이스.md",
     "03_resource/한글/Untitled.md",
+    "02_area/SDL/Texture로 출력하기.md",
+    "03_resource/도서관련/전략삼국지.md",
+    "한글 출력.md",
     "그냥 어딘가의 머릿말.md",
     "03_resource/한글",
-    "한글 출력.md",
-    "02_area/SDL/Texture로 출력하기.md",
     "00",
     "02_area/ollama/Ollama 한글 모델 사용하기.md",
     "02_area/react/react_form/React-Form + ZOD.md",
     "02_area/react/zustand/Zustand로 Global State 관리하기.md",
     "03_resource/vscode/VSCode 에 Ollama code hinter 연동하기.md",
     "03_resource/vscode",
-    "02_area/SDL/Texture로 출력하기.md",
     "03_resource/web",
     "03_resource/zerotier/ZeroTier 사용하기.md",
     "02_area/SDL",
@@ -227,7 +182,6 @@
     "02_area/langchain/Retrieval/05. Vector Store.md",
     "03_resource/zerotier/ZeroTier 사용하기.md",
     "02_area/langchain/LangChain 설치하기.md",
-    "02_area/LLM",
     "assets/rag_chain_map_rerank.png",
     "assets/rag_chain_refine.png",
     "assets/rag_chain_map_reduce.png",
@@ -237,15 +191,10 @@
     "assets/about_rag.png",
     "assets/langchain_embedding.png",
     "assets/langchain_textsplitter.png",
-    "02_area/langchain/Retrieval",
     "01_project/Diary_with_AI/04. Middleware.md",
     "01_project/Diary_with_AI/02. Express + TypeScript.md",
-    "01_project/Diary_with_AI/03. Router.md",
     "assets/zerotier_join_newnetwork.png",
     "assets/zerotier_dashboard_member.png",
-    "2024-04-13.md",
-    "Untitled.canvas",
-    "01_project/Diary_with_AI/01. ReactNative.md",
-    "01_project/Diary_with_AI/00. 개요.md"
+    "Untitled.canvas"
   ]
 }
