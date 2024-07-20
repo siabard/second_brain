@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4b6e83d1e2972c7",
+        "id": "16d96984f03ae7be",
         "type": "tabs",
         "children": [
           {
-            "id": "2a18b8b2ddb51d8b",
+            "id": "a86cd67344e03f7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_resource/game_making/읽을 거리.md",
+                "file": "01_project/Common LISP AI/Common Lisp Web Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_resource/game_making/읽을 거리.md",
+                "file": "01_project/Common LISP AI/Common Lisp Web Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_resource/game_making/읽을 거리.md",
+                "file": "01_project/Common LISP AI/Common Lisp Web Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_resource/game_making/읽을 거리.md"
+                "file": "01_project/Common LISP AI/Common Lisp Web Framework.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,48 +147,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a18b8b2ddb51d8b",
+  "active": "a86cd67344e03f7f",
   "lastOpenFiles": [
-    "03_resource/game_making/Untitled 1.md",
+    "01_project/Common LISP AI/AI Agent (RAG with Common Lisp).md",
+    "01_project/Common LISP AI/Common Lisp Web Framework.md",
+    "01_project/Diary_with_AI/04. Middleware.md",
+    "01_project/Diary_with_AI/03. Router.md",
+    "01_project/Diary_with_AI/02. Express + TypeScript.md",
+    "03_resource/개발툴/D인가 Common Lisp 인가.md",
+    "03_resource/영상을 보고/에이전트 AI의 발화.md",
+    "01_project/Common LISP AI",
+    "03_resource/영상을 보고/기술 기업의 몰락 (GM, 보잉, 인텔).md",
+    "03_resource/영상을 보고/룰루레몬과 스타벅스.md",
+    "03_resource/도서관련/전략삼국지.md",
+    "03_resource/영상을 보고",
     "03_resource/game_making/읽을 거리.md",
     "03_resource/game_making",
-    "03_resource/zerotier/ZeroTier 사용하기.md",
-    "02_area/SDL/Texture로 출력하기.md",
-    "03_resource/web/PHP에서 REFERER가 안오는 케이스.md",
+    "03_resource/개발툴",
     "03_resource/도서관련/Software Design for Flexibility.md",
+    "03_resource/web/PHP에서 REFERER가 안오는 케이스.md",
+    "03_resource/한글/Untitled.md",
+    "02_area/SDL/Texture로 출력하기.md",
     "한글 출력.md",
     "그냥 어딘가의 머릿말.md",
-    "03_resource/한글/Untitled.md",
     "03_resource/한글",
-    "03_resource/바이오플라스틱/자료조사.md",
-    "03_resource/바이오플라스틱",
-    "03_resource/도서관련/전략삼국지.md",
-    "03_resource/개발툴/D인가 Common Lisp 인가.md",
-    "03_resource/개발툴",
-    "02_area/react/zustand/Zustand로 Global State 관리하기.md",
-    "02_area/react/react_form/React-Form + ZOD.md",
-    "02_area/react/zustand",
-    "02_area/react/react_form",
-    "02_area/react",
-    "03_resource/도서관련",
-    "03_resource/web",
-    "02_area/SDL",
-    "01_project/php/PHP MacOSX 에 설치하기.md",
-    "03_resource/vscode/VSCode 에 Ollama code hinter 연동하기.md",
+    "00",
     "02_area/ollama/Ollama 한글 모델 사용하기.md",
+    "02_area/react/react_form/React-Form + ZOD.md",
+    "02_area/react/zustand/Zustand로 Global State 관리하기.md",
+    "03_resource/vscode/VSCode 에 Ollama code hinter 연동하기.md",
+    "03_resource/vscode",
+    "03_resource/web",
+    "03_resource/zerotier/ZeroTier 사용하기.md",
+    "02_area/SDL",
+    "03_resource/php/PHP MacOSX 에 설치하기.md",
+    "03_resource/php",
     "02_area/langchain/Retrieval/06. Retrieval.md",
     "02_area/langchain/model_io/Model IO.md",
     "02_area/langchain/Retrieval/04. Embeddings.md",
-    "02_area/langchain/Retrieval/03. Text Splitter.md",
-    "02_area/langchain/Retrieval/02. Document Loader.md",
-    "02_area/LLM/양자화하기.md",
-    "02_area/langchain/Retrieval/05. Vector Store.md",
-    "02_area/langchain/LangChain 설치하기.md",
     "assets/rag_chain_map_rerank.png",
     "assets/rag_chain_refine.png",
     "assets/rag_chain_map_reduce.png",
     "assets/rag_chain_stuff.png",
-    "02_area/langchain/Retrieval/01. RAG란 무엇인가?.md",
     "assets/structure_rag.png",
     "assets/about_rag.png",
     "assets/langchain_embedding.png",
